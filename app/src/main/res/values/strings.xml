@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Recommender</string>
+    <string name="action_settings">Settings</string>
+    <string name="fav_movies">Mis Películas Favoritas</string>
+    <string name="accion_acerca_de">Acerca de </string>
+    <string name="salir">Salir </string>
+    <string name="entrar">Entrar </string>
+    <string name="pelicula_recomendada">Película Recomendada </string>
+    <string name="cines_cercanos">Buscar cines cercanos </string>
+    <string name="mas_votadas">Películas mas votadas</string>
+    <string name="buscar">Buscar</string>
+    <string name="large_text">
+        "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano "
+        "recientemente descubierto para superar las limitaciones de los viajes espaciales "
+        "tripulados y vencer las inmensas distancias que tiene un viaje interestelar."
+    </string>
+    <string name="title_activity_theaters">Map</string>
+
+</resources>

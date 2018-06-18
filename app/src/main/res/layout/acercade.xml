@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TextView01"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:paddingBottom="10dp"
+    android:paddingEnd="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingStart="10dp"
+    android:paddingTop="10dp"
+    android:text="Este programa ha sido desarrollado como trabajo de Fin de Grado por Iván Benítez Martín. Como verá es un trabajo estupendo y verá que usted no tiene ni puta idea de nada y está admirando a una leyenda. Besis."></TextView>
